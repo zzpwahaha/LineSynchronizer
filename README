@@ -1,0 +1,3 @@
+Incase use the imitated nano, download driver for CH340 from sparkfun.
+DO NOT TRUST the windows auto installed version, which can be faulty for serial communication.
+https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all#windows-710
